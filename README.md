@@ -2,11 +2,21 @@
 
 Matersouth
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2931158d-48b3-4b44-b183-bea3207002b5" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/2931158d-48b3-4b44-b183-bea3207002b5" />
 
-MaterSouth es una empresa de desarrollo de software y soluciones web enfocada en crear productos digitales modernos, escalables y orientados a resultados. Diseñamos y construimos aplicaciones web a medida, combinando tecnología, diseño y buenas prácticas de ingeniería para ayudar a empresas y emprendedores a transformar sus ideas en soluciones digitales eficientes.
+MaterSouth is a software and web solutions development company focused on creating modern, scalable, and results-oriented digital products. We design and build custom web applications, combining technology, design, and best engineering practices to help businesses and entrepreneurs transform their ideas into efficient digital solutions.
 
-Trabajamos con tecnologías actuales y arquitecturas modernas, priorizando la calidad del código, la experiencia de usuario y el crecimiento sostenible de cada proyecto.
+We work with current technologies and modern architectures, prioritizing code quality, user experience, and the sustainable growth of each project.
+
+Proposals
+
+1. Citizens report urban problems (potholes, streetlights, garbage) via map.
+2. Users describe a difficult decision (layoffs, conflicts, dilemmas), and the system:
+ - evaluates impacts,
+  - proposes alternatives
+  - shows consequences
+
+3.Surix App for Supermarkets:
+Allows users to search for products and see their exact location in the aisles, with an interactive map, guided shopping list, and a dashboard for the supermarket to manage products and shelves.
 
 
-Propuestas
