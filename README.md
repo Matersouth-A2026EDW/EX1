@@ -16,7 +16,7 @@ Proposals
   - proposes alternatives
   - shows consequences
 
-3.Surix App for Supermarkets:
-Allows users to search for products and see their exact location in the aisles, with an interactive map, guided shopping list, and a dashboard for the supermarket to manage products and shelves.
+**3.Surix App for Supermarkets:
+Allows users to search for products and see their exact location in the aisles, with an interactive map, guided shopping list, and a dashboard for the supermarket to manage products and shelves.**
 
 
